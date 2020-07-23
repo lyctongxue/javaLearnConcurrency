@@ -10,8 +10,6 @@ public class WaitingAndRunnable {
 
     }
 }
-
-
 /**
  *  wait方法进入 使当前线程进入WAITING状态
  */
